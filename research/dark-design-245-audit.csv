@@ -1,0 +1,246 @@
+url,final_url,reachable,status,error,title,construction,density,sections,media_count,hero_signal,grid_signal,card_signal,bento_signal,frame_signal,motion_signal,video_signal,lazy_signal,responsive_image_signal,has_viewport,ratio_mix
+https://basement.studio/,https://basement.studio/,True,200,,basement.studio | We make cool shit that performs.,editorial_freeform,high,3,79,False,True,False,False,False,True,False,True,True,True,"{""landscape"": 75}"
+https://www.v7labs.com/,https://www.v7labs.com/,True,200,,"V7 Go | AI Workflows for Finance, Insurance, & Enterprise",editorial_freeform,medium,3,7,False,True,False,False,True,True,False,True,True,True,"{""portrait"": 1, ""square-ish"": 6}"
+https://railway.com/,https://railway.com/,True,200,,Railway | The all-in-one intelligent cloud provider,sectioned,high,8,60,True,True,False,False,False,True,False,True,True,True,"{""square-ish"": 2, ""ultrawide"": 12}"
+https://www.framer.com/,https://www.framer.com/,True,200,,Framer: AI design agent,sectioned,high,6,168,False,True,False,False,True,True,True,True,True,True,"{""square-ish"": 23, ""portrait"": 16, ""landscape"": 19, ""ultrawide"": 4}"
+https://pryzm.design/,https://pryzm.design/,True,200,,Pryzm | Background & Visual Studio for Designers,sectioned,high,10,24,False,True,True,False,False,True,True,True,False,True,{}
+https://108.supply/,https://108.supply/,True,200,,108™ Supply — Motion Templates for Jitter,editorial_freeform,high,3,51,False,False,True,False,True,True,True,True,True,True,"{""square-ish"": 1}"
+https://ponder.ai/,https://ponder.ai/,True,200,,Ponder,sectioned,high,7,76,False,True,True,False,False,True,True,True,True,True,{}
+https://www.glyphsandgrids.com/,https://www.glyphsandgrids.com/,True,200,,Glyphs & Grids — Font Manager for macOS,sectioned,medium,4,23,True,True,True,False,True,True,True,False,False,True,{}
+https://rectangles.fm/,https://rectangles.fm/,True,200,,Design's Group Chat,sectioned,high,6,95,False,True,False,False,True,True,False,True,True,True,"{""ultrawide"": 5, ""landscape"": 8, ""portrait"": 30, ""square-ish"": 34}"
+https://trionn.com/,https://trionn.com/,True,200,,TRIONN | AI-Powered Creative Design & Development Studio in India,sectioned,medium,4,22,True,True,True,False,False,True,True,True,False,True,"{""ultrawide"": 11}"
+https://x.ai/,https://x.ai/,False,403,HTTPError,,,,,,,,,,,,,,,,
+https://mainframe.app/,https://mainframe.app/,True,200,,Mainframe,editorial_freeform,low,1,0,False,False,False,False,True,False,False,False,False,True,{}
+https://rig.ai/,https://rig.ai/,True,200,,Rig - Local-First AI Coding Assistant,sectioned,high,12,4,True,True,True,False,True,True,False,True,True,True,"{""ultrawide"": 1}"
+https://damngoodbrands.com/,https://damngoodbrands.com/,True,200,,Damn Good Brands | (Ad)venture™ Fund,editorial_freeform,low,0,0,False,False,False,False,False,True,False,False,False,True,{}
+https://inkgames.com/,https://inkgames.com/,True,200,,INK Games,sectioned,medium,6,7,False,True,False,False,False,True,True,True,True,True,{}
+https://griflan.com/,https://griflan.com/,True,200,,Griflan – Creative Agency for Bold Brands & Digital Design,editorial_freeform,medium,3,19,False,True,False,False,False,True,True,True,True,True,"{""landscape"": 2, ""ultrawide"": 1}"
+https://corentinbernadou.com/,https://corentinbernadou.com/,True,200,,Corentin Bernadou · Freelance Developer,editorial_freeform,low,0,0,False,True,False,False,False,True,False,False,False,True,{}
+https://bymonolog.com/,https://bymonolog.com/,True,200,,MONOLOG | Brand and Web Design Studio founded By Huy,sectioned,high,8,53,False,True,False,False,False,True,True,True,True,True,"{""landscape"": 1, ""square-ish"": 13}"
+https://mohitsingh.cloud/,https://www.mohitsingh.cloud/,True,200,,Mohit Singh,editorial_freeform,medium,3,9,False,True,True,False,False,True,True,True,True,True,"{""square-ish"": 2}"
+https://fora.so/,https://fora.so/,True,200,,Fora — The community platform for creators,sectioned,high,8,47,False,False,False,False,True,True,False,True,True,True,"{""ultrawide"": 10, ""square-ish"": 15, ""landscape"": 17, ""portrait"": 2}"
+https://cssstudio.ai/,https://cssstudio.ai/,True,200,,CSS Studio. You and your agent. Designing together.,sectioned,high,14,1,True,True,True,False,True,True,False,False,False,True,{}
+https://app.reve.com/,https://app.reve.com/,True,200,,Reve Image - Model,editorial_freeform,medium,0,15,True,True,True,False,False,True,True,True,True,True,"{""portrait"": 12, ""square-ish"": 1, ""landscape"": 2}"
+https://titangatequity.com/,https://titangatequity.com/,True,200,,TitanGate Equity | A New Class of Ownership,sectioned,high,11,25,True,True,True,False,False,True,True,True,True,True,{}
+https://www.runlayer.com/,https://www.runlayer.com/,True,200,,Go all in on AI | Runlayer,sectioned,high,14,25,True,True,True,False,True,False,False,True,True,True,"{""ultrawide"": 2, ""landscape"": 1, ""square-ish"": 12}"
+https://www.1820productions.com/,https://www.1820productions.com/,True,200,,1820 Productions - Video Production Dallas | Media Company,sectioned,medium,7,13,False,True,False,False,False,True,True,True,True,True,{}
+https://definedvc.com/,https://definedvc.com/,True,200,,Defined | Build the AI Frontier®,app-shell_or_js,high,0,173,False,True,False,False,True,True,True,True,True,True,"{""ultrawide"": 79}"
+https://xmcp.dev/,https://xmcp.dev/,True,200,,xmcp — The TypeScript MCP framework,app-shell_or_js,medium,0,19,False,True,False,False,False,False,False,True,True,True,"{""landscape"": 6, ""square-ish"": 10}"
+https://oxiinstruments.com/,https://oxiinstruments.com/,False,403,HTTPError,,,,,,,,,,,,,,,,
+https://danilosierra.com/,https://www.danilosierra.com/,True,200,,"Danilo Sierra — Founder and Managing Director, Berlin",editorial_freeform,high,0,74,False,False,False,False,False,True,True,True,False,True,"{""landscape"": 53, ""portrait"": 16, ""square-ish"": 1}"
+https://www.subdivision.work/,https://www.subdivision.work/,True,200,,Subdivision,editorial_freeform,low,0,0,False,True,False,False,False,True,False,False,False,True,{}
+https://thisiswahba.com/,https://thisiswahba.com/,False,404,HTTPError,,,,,,,,,,,,,,,,
+https://www.khroma.co/,https://www.khroma.co/,True,200,,Khroma - AI Color Tool for Designers | Discover and Save Color Palettes,sectioned,low,4,2,False,False,False,False,True,False,False,False,False,True,{}
+https://www.usedropshot.com/,https://www.usedropshot.com/,True,200,,Dropshot — Cinematic product shots & app store preview videos in your browser,editorial_freeform,low,0,0,False,False,False,False,False,False,False,False,False,True,{}
+https://www.framer.com/state-of-sites-2026/,https://www.framer.com/state-of-sites-2026/,True,200,,Framer: State of Sites 2026,app-shell_or_js,high,0,39,False,True,False,False,True,True,False,True,True,True,"{""square-ish"": 33, ""landscape"": 5}"
+https://capetowndamlevels.co.za/,https://capetowndamlevels.co.za/,True,200,,Cape Town Dam Levels Today — 76.3% (18 September 2026),sectioned,medium,9,2,True,True,True,False,False,True,False,True,False,True,{}
+https://www.cedric.design/,https://www.cedric.design/,True,200,,"Cédric – Entrepreneur, Maker, and Tinkerer.",app-shell_or_js,medium,0,11,False,True,False,False,True,True,True,True,True,True,"{""square-ish"": 6, ""landscape"": 4}"
+https://supercommon.systems/,https://supercommon.systems/,True,200,,supercommon systems,app-shell_or_js,low,0,4,False,True,False,False,True,True,True,True,True,True,"{""landscape"": 2, ""square-ish"": 1}"
+https://www.feyapp.com/,https://fey.com/,True,200,,Fey joined Wealthsimple,editorial_freeform,low,0,1,False,True,False,False,False,True,False,False,False,True,"{""ultrawide"": 1}"
+https://www.stellar.work/,https://www.stellar.work/,True,200,,Stellar — Blazing fast design sprints,sectioned,high,7,170,True,True,True,False,False,True,True,True,True,True,{}
+https://umbrel.com/,https://umbrel.com/,True,200,,Umbrel - Personal home cloud and OS for self-hosting,sectioned,high,8,220,True,True,True,False,False,True,True,True,True,True,"{""square-ish"": 78, ""landscape"": 1}"
+https://lazy.so/,https://lazy.so/,True,200,,Lazy • A capture tool for knowledge,sectioned,medium,10,6,False,False,False,False,False,True,False,False,False,True,{}
+https://resend.com/,https://resend.com/,True,200,,Resend · Email for developers,sectioned,high,12,16,True,True,False,False,False,True,True,True,True,True,"{""landscape"": 3, ""square-ish"": 10, ""ultrawide"": 3}"
+https://wope.com/,https://wope.com/,True,200,,Wope: The New Era of SEO Research,app-shell_or_js,medium,1,20,True,True,False,False,False,True,False,False,True,True,"{""square-ish"": 16}"
+https://www.twingate.com/,https://www.twingate.com/,True,200,,Twingate: It's time to ditch your VPN,sectioned,high,15,113,False,True,False,False,True,True,False,True,True,True,"{""ultrawide"": 12, ""landscape"": 14, ""square-ish"": 49, ""portrait"": 4}"
+https://solreader.com/,https://solreader.com/,True,200,,Sol | Illuminate Your Mind,sectioned,high,11,52,True,True,False,False,True,False,True,False,True,True,{}
+https://madebyarticle.com/,https://madebyarticle.com/,True,200,,"Article - Brand and Digital for Culture, Commerce and Good.",sectioned,high,6,110,False,True,False,False,True,True,True,False,True,True,{}
+https://www.coronel.design/,https://www.coronel.design/,True,200,,Pablo Coronel - Principal Designer,editorial_freeform,medium,0,13,False,True,False,False,False,True,True,True,False,True,{}
+https://tome.app/,https://tome.app/,False,404,HTTPError,,,,,,,,,,,,,,,,
+https://timestwo.design/,https://timestwo.design/,True,200,,TIMES TWO | A brand & digital design practice,app-shell_or_js,low,0,0,False,False,False,False,False,True,False,False,False,True,{}
+https://yannglt.com/,https://yannglt.com/,True,200,,Yann-Edern Gillet — Welcome to Thunderstorm,app-shell_or_js,medium,0,0,False,False,True,False,False,False,False,False,False,True,{}
+https://wonderlandams.com/,https://wonderlandams.com/,True,200,,WONDERLAND | Brand Experience Design Studio,editorial_freeform,low,3,1,False,False,False,False,False,True,True,False,False,True,{}
+https://www.strv.com/,https://www.strv.com/,True,200,,STRV │ Digital Product Development,sectioned,high,7,64,False,False,False,False,False,True,True,True,True,True,"{""portrait"": 1, ""ultrawide"": 9}"
+https://cncpt.ca/,https://cncpt.ca/,True,200,,,editorial_freeform,low,0,0,False,False,False,False,False,False,False,False,False,False,{}
+https://shape.xyz/,https://shape.xyz/,True,200,,Shape,sectioned,high,7,40,False,False,False,False,True,True,False,True,True,True,{}
+https://nextgennow.canopyplanet.org/,https://nextgennow.canopyplanet.org/,True,200,,NEXT GEN Solutions to make packaging and textiles,sectioned,high,4,284,False,True,True,False,False,True,True,True,True,True,"{""ultrawide"": 1, ""portrait"": 3, ""landscape"": 2, ""square-ish"": 33}"
+https://journey.zajno.com/,https://journey.zajno.com/,True,200,,7 years,editorial_freeform,low,0,0,False,False,False,False,False,True,False,False,False,True,{}
+https://www.flammini.design/,https://www.flammini.design/,True,200,,Flammini Design | UX/UI Designer | Webflow Development,sectioned,high,4,48,False,False,False,False,False,True,False,True,True,True,"{""square-ish"": 5}"
+https://opalcamera.com/opal-composer,https://op.al/,True,200,,Opal Electronics,editorial_freeform,medium,1,2,False,False,False,False,False,False,False,False,True,True,{}
+https://openai.com/,https://openai.com/,False,403,HTTPError,,,,,,,,,,,,,,,,
+https://vanderlanth.io/,https://vanderlanth.io/,True,200,,Nicolas Lanthemann — Homepage,editorial_freeform,medium,3,10,False,False,False,False,False,False,True,False,False,True,{}
+https://arrival.com/,https://arrival.com/,False,,TimeoutError: The read operation timed out,,,,,,,,,,,,,,,,
+https://framer.university/,https://framer.university/,True,200,,#1 Place to Learn Framer — Framer University,sectioned,high,8,93,False,True,False,False,True,True,True,False,True,True,"{""square-ish"": 23, ""landscape"": 53}"
+https://specifyapp.com/launchweek,https://specifyapp.com/launchweek,True,200,,Specify Launch Week,app-shell_or_js,high,0,55,False,True,False,False,True,True,True,False,True,True,{}
+https://www.haydenbleasel.com/,https://haydenbleasel.com/,True,200,,Hayden Bleasel — Software Engineer and Product Designer,app-shell_or_js,medium,1,0,False,True,False,False,False,False,False,False,False,True,{}
+https://webflow.com/webflowconf,https://webflow.com/webflowconf,True,200,,Webflow Conf 2026 | Sept 1-3 | Boston & Online,sectioned,high,13,78,True,True,True,False,False,True,False,True,True,True,{}
+https://makepill.com/en,https://makepill.com/en,False,404,HTTPError,,,,,,,,,,,,,,,,
+https://thenetworkstate.company/,https://citizenx.com/,True,200,,CitizenX: Diversify Your Passport Portfolio with a Second Citizenship,sectioned,high,9,95,False,True,False,False,False,True,True,True,True,True,"{""ultrawide"": 11, ""landscape"": 12, ""square-ish"": 13}"
+https://bonsai.fyi/,https://bonsai.fyi/,False,,URLError: <urlopen error [Errno -5] No address associated with hostname>,,,,,,,,,,,,,,,,
+https://minhpham.design/,https://minhpham.design/,True,200,,Minh Pham - Multidisciplinary Designer,editorial_freeform,high,0,28,True,False,False,False,True,True,True,False,True,True,"{""landscape"": 4, ""portrait"": 2}"
+https://wantedfornothing.com/,https://wantedfornothing.com/,True,200,,Wanted For Nothing | Top Rated Web Design Agency Los Angeles,sectioned,high,6,28,True,False,False,False,False,True,False,False,True,True,"{""square-ish"": 4, ""landscape"": 5}"
+https://paullapkin.design/,https://paullapkin.design/,False,,URLError: <urlopen error [Errno -5] No address associated with hostname>,,,,,,,,,,,,,,,,
+https://www.morrow.nl/,https://morrow.nl/,True,200,,Morrow is Hear The Youth now. Redirecting...,editorial_freeform,low,0,0,False,False,False,False,False,False,False,False,False,True,{}
+https://offsuit.app/,https://offsuit.app/,True,200,,"Offsuit Games - Dead Simple, Deliberately Designed",editorial_freeform,low,2,6,False,True,False,False,False,True,True,True,True,True,{}
+https://ultramail.ai/,https://ultramail.ai/,False,404,HTTPError,,,,,,,,,,,,,,,,
+https://www.dimension.dev/,https://dimension.dev/,True,200,,Dimension — Your AI work assistant,editorial_freeform,low,1,0,False,False,False,False,False,False,False,False,False,True,{}
+https://arcade.la/,https://arcade.la/,True,200,,Arcade Labs — Startup Design Studio — Los Angeles,editorial_freeform,low,1,1,False,False,False,False,False,False,False,False,False,True,"{""ultrawide"": 1}"
+https://orion.tube/,https://orion.tube/,True,200,,Orion — HDMI Monitor for iPad,app-shell_or_js,high,1,24,False,False,False,False,True,True,False,True,True,True,"{""square-ish"": 12, ""ultrawide"": 3, ""landscape"": 8, ""portrait"": 1}"
+https://gitness.com/,https://www.harness.io/open-source,True,200,,Open Source CI/CD Software Delivery Platform,sectioned,high,10,58,True,True,True,False,False,True,False,True,True,True,"{""ultrawide"": 6, ""landscape"": 1}"
+https://procreate.com/dreams,https://procreate.com/dreams,True,200,,Procreate Dreams,editorial_freeform,high,3,38,True,True,False,False,False,True,True,False,False,True,"{""square-ish"": 4, ""ultrawide"": 8, ""landscape"": 7}"
+https://github.com/mona-sans,https://github.com/mona-sans,True,200,,Mona Sans & Hubot Sans · GitHub,app-shell_or_js,medium,1,21,True,False,False,False,False,False,True,True,False,True,"{""landscape"": 1, ""portrait"": 8, ""square-ish"": 9, ""ultrawide"": 3}"
+https://vercel.com/,https://vercel.com/,True,200,,Agentic Infrastructure - Vercel,sectioned,medium,10,19,True,True,False,False,False,True,False,True,True,True,"{""square-ish"": 3, ""landscape"": 14, ""ultrawide"": 2}"
+https://multiversx.com/,https://multiversx.com/,True,200,,Supernova - Capital at machine speed,editorial_freeform,low,0,0,False,False,False,False,False,True,False,False,False,True,{}
+https://www.halodhimas.com/,https://www.halodhimas.com/,False,404,HTTPError,,,,,,,,,,,,,,,,
+https://www.justinfarrugia.com/,https://www.justinfarrugia.com/,False,,URLError: <urlopen error _ssl.c:990: The handshake operation timed out>,,,,,,,,,,,,,,,,
+https://gsap.com/,https://gsap.com/,True,200,,Homepage | GSAP,sectioned,medium,9,12,True,True,False,False,False,True,True,True,True,True,"{""landscape"": 2}"
+https://charge.cars/,https://charge.cars/,True,200,,Home page :: Charge,sectioned,high,12,19,False,False,False,False,False,False,True,False,False,True,{}
+https://moth3r.com/,https://moth3r.com/,True,200,,MOTH3R® Design | Ivan Santic,editorial_freeform,low,2,4,False,True,False,False,False,True,False,False,False,True,{}
+https://midday.ai/en,https://midday.ai/en,False,308,HTTPError,,,,,,,,,,,,,,,,
+https://electronicmaterialsoffice.com/,https://electronicmaterialsoffice.com/,True,200,,Altar II - EMO®,sectioned,high,19,105,True,True,True,False,False,True,True,True,True,True,"{""square-ish"": 1}"
+https://incident.framer.website/,https://incident.framer.website/,True,200,,Yegor Trukhin - THE WEB OF  HORRORS,app-shell_or_js,medium,0,18,False,False,False,False,True,True,True,False,True,True,"{""landscape"": 7, ""square-ish"": 2, ""ultrawide"": 4, ""portrait"": 2}"
+https://endlesstools.io/,https://endlesstools.io/,True,200,,Endless Tools,sectioned,high,8,78,False,True,False,False,False,True,True,True,True,True,"{""ultrawide"": 8, ""square-ish"": 19, ""portrait"": 2}"
+https://ethcap.co/,https://www.purposeinvest.com/funds/purpose-ether-staking-corp-etf?utm_source=ethercap/,True,200,,Ether Staking Corp ETF | Ethereum Staking | ETHC | Purpose Investments,app-shell_or_js,medium,0,8,False,True,False,False,False,True,False,True,True,True,"{""square-ish"": 1}"
+https://mubien.com/,https://mubien.com/,True,200,,MB | Mubien Brands | Branding and Digital Products,editorial_freeform,medium,1,17,False,True,False,False,False,False,True,False,False,True,{}
+https://komandin.com/en,https://komandin.com/,True,200,,"Komandin® Anton — веб-дизайнер, сайты на Тильде — корпоративные, лендинги, интернет-магазины",app-shell_or_js,high,0,28,False,False,False,False,False,True,False,False,False,True,{}
+https://www.halfpastnine.io/,https://www.dysrupt.com/,True,200,,dysrupt - We Make the Impossible Profitable,sectioned,high,8,73,False,False,False,False,False,True,False,True,False,True,{}
+https://capsule.video/,https://capsule.video/,True,200,,Capsule | Video agents for enterprise,sectioned,high,7,57,True,True,True,False,True,True,True,True,False,True,"{""ultrawide"": 18, ""landscape"": 5, ""square-ish"": 10}"
+https://andagain.uk/,https://andagain.uk/,True,200,,"AndAgain | Digital Agency London - Web, App, Campaign Development",app-shell_or_js,medium,1,14,False,True,False,False,False,True,True,False,True,True,"{""landscape"": 14}"
+https://spellar.ai/,https://www.spellar.ai/,True,200,,Spellar - AI Meeting Note Taker,editorial_freeform,low,0,0,False,False,False,False,False,False,False,False,False,True,{}
+https://nav.supply/,https://nav.supply/,True,200,,Nav.Supply,app-shell_or_js,high,0,54,False,True,False,False,True,True,True,False,True,True,{}
+https://avara.xyz/,https://avara.xyz/,False,403,HTTPError,,,,,,,,,,,,,,,,
+https://www.authkit.com/,https://www.authkit.com/,True,200,,AuthKit by WorkOS,app-shell_or_js,high,0,61,True,False,True,False,True,False,True,True,True,True,"{""ultrawide"": 7, ""square-ish"": 29, ""landscape"": 6, ""portrait"": 2}"
+https://arrowdynamics.dev/,https://arrowdynamics.dev/,True,200,,Arrow Dynamics – Framer Library to build Interactive Animations,sectioned,high,12,690,False,True,False,False,True,True,False,True,True,True,"{""ultrawide"": 12, ""square-ish"": 17, ""landscape"": 4}"
+https://www.ozone.pro/,https://www.ozone.pro/,False,404,HTTPError,,,,,,,,,,,,,,,,
+https://www.seda.xyz/,https://www.seda.xyz/,True,200,,SEDA | Powering 24/7 Markets,sectioned,high,5,37,True,True,True,False,False,True,False,False,False,True,{}
+https://www.st33p.com/,https://www.st33p.com/,False,,URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1007)>,,,,,,,,,,,,,,,,
+https://tr.af/,https://tr.af/,False,404,HTTPError,,,,,,,,,,,,,,,,
+https://vercel.com/font,https://vercel.com/font,True,200,,Geist Font,sectioned,medium,9,12,False,True,False,False,False,True,True,True,True,True,"{""portrait"": 7, ""square-ish"": 3}"
+https://deepmind.google/technologies/gemini/,https://deepmind.google/models/gemini/,True,200,,Gemini — Google DeepMind,sectioned,high,29,286,False,True,True,False,False,True,True,True,True,True,"{""ultrawide"": 2, ""landscape"": 10, ""square-ish"": 4}"
+https://oval.earth/,https://oval.earth/,True,200,,Oval,editorial_freeform,medium,3,14,False,True,False,False,False,True,False,True,True,True,{}
+https://usedaybox.com/,https://usedaybox.com/,True,200,,Daybox - Get more out of every day.,editorial_freeform,medium,0,8,False,False,True,False,True,False,False,True,True,True,{}
+https://benjaminhoppe.co/,https://www.benjaminhoppe.co/,True,200,,Benjamin Hoppe — Independent Software Designer,editorial_freeform,low,0,1,False,True,False,False,True,False,False,False,False,True,{}
+https://099.supply/,https://099.supply/,True,200,,099 SUPPLY,editorial_freeform,high,1,57,False,True,True,False,True,False,False,False,False,True,{}
+https://www.guruduttperi.com/,https://www.guruduttperi.com/,True,200,,Music,app-shell_or_js,low,1,0,False,False,True,False,False,True,False,False,False,True,{}
+https://www.verse.sh/,https://www.verse.sh/,True,200,,Verse,app-shell_or_js,high,0,70,False,True,False,False,False,True,True,False,False,True,{}
+https://ped.ro/,https://ped.ro/,True,200,,Pedro Duarte's Personal Website,editorial_freeform,low,0,1,False,False,False,False,False,True,True,False,False,True,{}
+https://morningstar.ventures/,https://morningstar.ventures/,True,200,,Morningstar Ventures - Backing Ambitious Founders,sectioned,high,9,56,True,True,False,False,False,True,False,True,True,True,{}
+https://shift-a.design/,https://shift-a.design/,False,,URLError: <urlopen error [Errno -2] Name or service not known>,,,,,,,,,,,,,,,,
+https://www.joinmita.com/,https://www.joinmita.com/,False,,URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1007)>,,,,,,,,,,,,,,,,
+https://www.pinnacledesignlab.com/,https://www.pinnacledesignlab.com/,False,,URLError: <urlopen error [Errno -3] Temporary failure in name resolution>,,,,,,,,,,,,,,,,
+https://www.fabianalbert.com/,https://www.fabianalbert.com/,True,200,,Fabian Albert - Visual Designer,app-shell_or_js,medium,0,21,False,True,False,False,True,True,True,False,True,True,"{""square-ish"": 2, ""landscape"": 14}"
+https://para.co/,https://para.co/,True,200,,Para,sectioned,high,8,30,False,False,False,False,True,False,False,True,False,True,"{""square-ish"": 3}"
+https://algo.tv/api,https://algo.tv/api,True,200,,Algo — Powerful Video Automation API,app-shell_or_js,high,0,19,False,True,False,False,True,True,True,False,True,True,"{""landscape"": 11, ""ultrawide"": 2, ""square-ish"": 1}"
+https://lucasporterbakker.com/,https://lucasporterbakker.com/,True,200,,"Lucas Porter-Bakker — Designer, hacker, founder.",sectioned,low,5,0,False,True,False,False,True,False,False,False,False,True,{}
+https://www.nkay.design/,https://www.nkay.design/,False,,URLError: <urlopen error [Errno -2] Name or service not known>,,,,,,,,,,,,,,,,
+https://www.ander.agency/,https://ander.agency/,True,200,,Ander.Agency | Strategic Branding & Webflow Design for B2B,sectioned,high,10,249,True,True,True,False,False,True,True,True,True,True,{}
+https://www.marckuiper.com/,https://www.marckuiper.com/,True,200,,Marc Kuiper → Freelance designer & no-code developer,editorial_freeform,medium,2,21,False,False,False,False,True,True,False,True,True,True,"{""square-ish"": 8, ""portrait"": 3}"
+https://coreframework.com/,https://coreframework.com/,True,200,,Core Framework,sectioned,medium,4,13,False,False,False,False,False,False,False,True,True,True,"{""square-ish"": 6, ""ultrawide"": 5}"
+https://motion.page/,https://motion.page/,True,200,,Visual Animation Builder for WordPress & Desktop | Motion.page,sectioned,high,11,83,True,True,True,False,True,True,False,True,True,True,"{""landscape"": 7, ""square-ish"": 6}"
+https://sharonlee.design/,https://sharonlee.design/,True,200,,Sharon Haejung Lee Product Design Portfolio,app-shell_or_js,high,0,38,False,True,False,False,True,True,False,False,True,True,{}
+https://nexis.network/,https://nex-t1.ai/,True,200,,Nex Copilot | On-Chain AI Agent for DeFi & Payments,sectioned,high,7,39,True,True,True,False,False,True,False,True,True,True,"{""ultrawide"": 2, ""square-ish"": 32}"
+https://atio.studio/,https://atio.studio/,True,200,,ATIO Studio,editorial_freeform,low,0,0,False,False,False,False,False,True,False,False,False,True,{}
+https://findyourvana.com/,https://findyourvana.com/,True,200,,Find Your VANA,sectioned,high,10,21,False,False,False,False,False,True,False,False,True,True,"{""landscape"": 3, ""square-ish"": 2, ""ultrawide"": 6, ""portrait"": 10}"
+https://webflow.com/,https://webflow.com/,True,200,,Webflow: The agentic web platform for modern businesses,sectioned,high,7,164,True,False,True,False,True,True,True,True,True,True,{}
+https://langbase.com/,https://langbase.com/,True,200,,Langbase · Serverless AI Developer Platform,app-shell_or_js,high,0,196,False,True,False,False,False,False,True,False,False,True,{}
+https://cp-agency.eu/en,https://cp-agency.eu/en,True,200,,constant performance® — full service digital agency,app-shell_or_js,medium,0,11,False,False,False,False,True,True,False,False,False,True,{}
+https://www.timetorefokus.com/,https://ai.timetorefokus.com/,True,200,,Time to Refokus,editorial_freeform,low,1,3,False,False,False,False,True,True,True,False,False,True,{}
+https://joincobalt.com/,https://joincobalt.com/,True,200,,Cobalt | Unleash the power of intuitive finance,sectioned,low,5,5,False,True,False,False,False,True,False,True,True,True,"{""landscape"": 1, ""square-ish"": 1, ""portrait"": 1, ""ultrawide"": 2}"
+https://www.thesmallsquare.com/,https://www.thesmallsquare.com/,True,200,,Product Design & Development for B2B SaaS | The Small Square,editorial_freeform,high,3,155,False,True,False,True,False,True,True,True,True,True,{}
+https://satellitor.com/,https://satellitor.com/,True,200,,"Satellitor: Launch SEO blogs on autopilot, that bring traffic",app-shell_or_js,high,1,37,False,True,False,False,False,True,False,False,False,True,{}
+https://alxmurashko.com/,https://alxmurashko.com/,True,200,,"Alex Murashko · Digital product designer in London, UK",editorial_freeform,low,0,1,False,False,False,False,False,False,False,True,False,True,{}
+https://www.droplette.app/,https://www.droplette.app/,True,200,,Droplette: Smart AI-Powered Color Palette Generator for Figma & FigJam,editorial_freeform,low,0,0,False,False,False,False,False,False,False,False,False,True,{}
+https://animated-abstract.wannathis.one/,https://animated-abstract.wannathis.one/,True,200,,Glass 3D Abstract Animated Shapes,sectioned,high,7,38,True,True,False,False,False,True,True,True,True,True,{}
+https://www.sun-rise.com/,https://www.sun-rise.com/,False,,URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1007)>,,,,,,,,,,,,,,,,
+https://www.justbuild.app/,https://www.justbuild.app/,False,,URLError: <urlopen error [Errno -3] Temporary failure in name resolution>,,,,,,,,,,,,,,,,
+https://simarrolozano.com/,https://simarrolozano.com/,True,200,,SIMARRO LOZANO FILM DIRECTOR,editorial_freeform,medium,0,14,False,True,False,False,False,True,True,True,False,True,"{""ultrawide"": 3, ""landscape"": 1}"
+https://jschachterle.com/,https://jschachterle.com/,False,403,HTTPError,,,,,,,,,,,,,,,,
+https://creme.com/,https://creme.com/,True,200,,Creme,editorial_freeform,low,0,0,False,False,False,False,False,False,False,False,False,True,{}
+https://reflektor.digital/,https://reflektor.digital/,True,200,,Reflektor Digital | Home,sectioned,high,14,65,False,False,False,False,False,True,True,False,False,True,"{""square-ish"": 2}"
+https://o-p-e-n.com/,https://o-p-e-n.com/,True,200,,Guided Meditation | Mindfulness | Breathwork | Open Breathwork & Meditation,editorial_freeform,low,3,1,True,True,False,False,False,True,False,False,True,True,{}
+https://guillaumeazadian.com/,https://guillaumeazadian.com/,True,200,,Home · Guillaume's portfolio,editorial_freeform,low,0,1,False,False,False,False,False,False,False,False,False,True,{}
+https://www.kevinbhagat.com/,https://www.kevinbhagat.com/,False,308,HTTPError,,,,,,,,,,,,,,,,
+https://roudstudio.com/,https://roudstudio.com/,True,200,,Roud Studio - Global Digital Agency,app-shell_or_js,high,0,111,True,True,False,False,True,True,False,True,True,True,"{""square-ish"": 36}"
+https://www.moresleep.net/,https://www.moresleep.net/,True,200,,MoreSleep - Creative Agency,sectioned,medium,4,18,False,False,False,False,False,False,True,False,True,True,{}
+https://www.hypercard.com/,https://www.hyperexpense.com/,True,200,,Autonomous Finance & Expense Management,sectioned,high,7,136,True,True,True,False,False,True,True,True,True,True,"{""square-ish"": 2}"
+https://www.framer.com/2023,https://www.framer.com/2023,False,308,HTTPError,,,,,,,,,,,,,,,,
+https://www.ferrari-movie.com/,https://ferrari-movie.com/,True,200,,Ferrari Movie: A blog about Ferrari and cars - Ferrari Movie,app-shell_or_js,high,0,46,False,True,False,False,True,True,True,True,True,True,"{""ultrawide"": 3, ""landscape"": 43}"
+https://www.studio-arde.com/,https://www.studio-arde.com/,True,200,,Studio Ardē | Branding & Website Agentur Wien,sectioned,high,9,24,True,True,False,False,False,False,False,True,True,True,"{""ultrawide"": 2, ""landscape"": 1}"
+https://www.elapse.ai/,https://ideaape.com/,True,200,,IdeaApe - AI Market Research for Effective Brand Strategy,sectioned,medium,8,18,False,True,True,True,False,True,False,True,True,True,{}
+https://www.davidanthonychenault.com/,https://www.davidanthonychenault.com/,True,200,,The Edge of Design | David Anthony Chenault,editorial_freeform,medium,1,16,True,True,False,False,False,True,True,True,True,True,{}
+https://dokument.studio/,https://dokument.studio/,True,200,,"Dokument Studio - Brand Design Archive, Berlin",app-shell_or_js,low,0,4,False,False,False,False,True,True,False,False,False,True,"{""square-ish"": 4}"
+https://knob.design/,https://knob.design/,True,200,,KNOB / k.no.b.1 / Low Profile Mechanical Keyboard,app-shell_or_js,medium,0,9,False,True,False,False,True,True,True,True,True,True,"{""ultrawide"": 2, ""square-ish"": 4, ""landscape"": 1, ""portrait"": 1}"
+https://robertborghesi.is/,https://robertborghesi.is/,True,200,,Robert Borghesi — Creative Dev,editorial_freeform,high,3,31,True,True,False,False,False,True,False,False,True,True,{}
+https://brilliant.xyz/,https://brilliant.xyz/,True,200,,Brilliant Labs,app-shell_or_js,high,0,65,True,True,True,False,False,False,True,True,True,True,"{""ultrawide"": 29, ""landscape"": 21, ""square-ish"": 13, ""portrait"": 1}"
+https://www.somefolk.co/,https://somefolk.co/,True,200,,Somefolk® Digital Goods | SF.CO | Made in London,sectioned,medium,6,17,True,True,False,False,False,True,True,True,True,True,{}
+https://jessicamillearchitecte.com/,https://jessicamillearchitecte.com/,True,200,,Jessica Mille,editorial_freeform,low,0,0,False,False,False,False,False,False,False,False,False,True,{}
+https://www.halo-lab.com/,https://www.halo-lab.com/,True,200,,Custom Design and Development Services — Halo Lab,sectioned,high,10,153,True,True,True,False,False,True,True,True,True,True,"{""landscape"": 2, ""square-ish"": 41}"
+https://jeffkoonsmoonphases.com/,https://jeffkoonsmoonphases.com/,True,200,,Jeff Koons Moon Phases,sectioned,medium,8,18,False,False,False,False,False,False,True,True,True,True,"{""square-ish"": 10, ""landscape"": 1}"
+https://www.oda.services/,https://www.oda.services/,True,200,,ODA ® Office for Design Affairs,editorial_freeform,low,0,0,False,False,False,False,False,False,False,False,False,True,{}
+https://modul.es/,https://modul.es/,True,200,,Modules,editorial_freeform,low,0,1,False,False,False,False,False,False,False,False,True,True,"{""landscape"": 1}"
+https://vercel.com/ship,https://vercel.com/ship,True,200,,Vercel Ship 26 in San Francisco | October 15,sectioned,high,7,81,True,True,False,False,False,True,False,True,True,True,"{""square-ish"": 23, ""landscape"": 20, ""portrait"": 2, ""ultrawide"": 24}"
+https://www.sageeast.com/,https://www.sageeast.com/,True,200,,Sage East -  NYC + LA Photographer,editorial_freeform,high,0,36,True,True,False,False,False,True,True,True,False,True,{}
+https://integrated-reasoning.com/,https://integrated-reasoning.com/,True,200,,Home - Integrated Reasoning,sectioned,medium,8,5,True,False,False,False,False,False,False,False,False,True,{}
+https://www.metalab.com/,https://www.metalab.com/,True,200,,Metalab | We make interfaces,editorial_freeform,low,1,1,False,False,False,False,False,True,False,False,False,True,"{""landscape"": 1}"
+https://nikitalabutin.com/,https://nikitalabutin.com/,False,404,HTTPError,,,,,,,,,,,,,,,,
+https://www.ithacaprotocol.io/,https://www.ithacaprotocol.io/,True,200,,"Ithaca Non-Custodial, Composable Option Protocol",editorial_freeform,low,0,0,False,False,False,False,False,False,False,False,False,True,{}
+https://knowmore.so/,https://knowmore.so/,False,,URLError: <urlopen error [Errno -2] Name or service not known>,,,,,,,,,,,,,,,,
+https://www.noon.ai/,https://www.noon.ai/,True,200,,Noon | AI Recruiting Agent That Sources Candidates For You,sectioned,high,17,181,False,True,False,False,False,True,True,True,True,True,"{""square-ish"": 16, ""landscape"": 1, ""ultrawide"": 2}"
+https://studio.ai/,https://studio.ai/,True,200,,StudioAI | Design x AI,editorial_freeform,low,0,0,False,False,False,False,False,True,False,False,False,True,{}
+https://pp-fragment.com/,https://pp-fragment.com/,True,200,,Fŕaǥmeńť | Pangram Pangram® Foundry + Locomotive®,editorial_freeform,high,3,56,True,False,False,False,False,False,False,False,False,True,"{""square-ish"": 49, ""portrait"": 7}"
+https://www.unicorn.studio/,https://www.unicorn.studio/,True,200,,Unicorn Studio — Craft Interactive Graphics that Ship,editorial_freeform,low,0,0,False,False,False,False,False,True,False,False,False,True,{}
+https://www.eleveight.supply/,https://www.eleveight.supply/,True,200,,Eleveight Supply,app-shell_or_js,high,0,38,False,True,False,False,True,True,False,True,True,True,"{""ultrawide"": 1, ""portrait"": 4, ""landscape"": 16, ""square-ish"": 17}"
+https://wearegradient.net/,https://www.wearegradient.net/,True,200,,Gradient® A Type Design Agency – Gradient® A Type Design Agency,app-shell_or_js,high,0,36,False,True,False,True,False,False,True,False,True,True,{}
+https://www.september.works/,https://www.september.works/,True,200,,September Works,sectioned,high,6,61,False,True,True,False,False,False,False,False,True,True,{}
+https://keywordsai.co/,https://www.respan.ai/,True,200,,Respan | LLM Engineering Platform,sectioned,high,6,133,False,True,True,False,False,True,False,True,True,True,"{""square-ish"": 79}"
+https://frame.io/v4,https://frame.io/v4,True,200,,Frame.io | Introducing Frame.io Version 4,sectioned,high,13,911,False,False,False,False,True,False,True,True,True,True,"{""landscape"": 8, ""portrait"": 18, ""square-ish"": 10, ""ultrawide"": 8}"
+https://www.pacolui.com/,https://www.pacolui.com/,True,200,,Paco Lui — Product Designer,editorial_freeform,high,0,33,False,False,False,False,True,True,True,True,False,True,{}
+https://kaisermann.me/,https://kaisermann.me/,True,200,,kaisermann | web engineer,editorial_freeform,low,0,0,False,True,False,False,False,True,False,False,False,True,{}
+https://flareum.io/,https://flareum.io/,True,200,,Flareum - Design System Builder,editorial_freeform,low,0,0,False,False,False,False,False,True,False,False,False,True,{}
+https://aimpie.design/,https://p20v.com/,True,200,,"Best AI Image Editor Online — Edit, Generate & Fix Photos Instantly | P20V | P20V",editorial_freeform,medium,2,11,False,True,False,False,False,False,False,True,True,True,{}
+https://www.raycast.com/,https://www.raycast.com/,True,200,,Raycast - Your shortcut to everything,app-shell_or_js,high,0,99,False,False,False,False,True,False,False,True,True,True,"{""square-ish"": 78, ""landscape"": 1, ""ultrawide"": 1}"
+https://designengineer.io/,https://designengineer.io/,True,200,,Design Engineer Jobs,app-shell_or_js,high,1,53,False,True,True,False,False,False,False,True,True,True,"{""square-ish"": 53}"
+https://www.chaingpt.org/,https://www.chaingpt.org/,True,200,,ChainGPT - Unleash The Power of Blockchain AI,app-shell_or_js,high,1,1493,True,True,True,False,True,True,True,True,True,True,"{""square-ish"": 1, ""ultrawide"": 1}"
+https://www.angellist.com/2023,https://www.angellist.com/2023,True,200,,2023 Year in Review | AngelList,app-shell_or_js,medium,1,1,False,True,False,False,False,True,False,False,False,True,"{""square-ish"": 1}"
+https://remotejobs.com/,https://www.remotejobs.com/,True,200,,"Remote jobs: design, engineering, finance, marketing, management | Rem",app-shell_or_js,high,1,49,False,True,True,False,False,False,False,True,False,True,"{""square-ish"": 49}"
+https://shawnlukas.com/,https://shawnlukas.com/,True,200,,Lab,app-shell_or_js,low,0,0,False,True,True,False,False,True,False,False,False,True,{}
+https://storytime.xyzal.com/,https://storytime.xyzal.com/,True,200,,Storytime With Nigel,editorial_freeform,high,2,42,False,False,False,False,False,False,False,False,True,True,{}
+https://www.apple.com/ipad-pro/,https://www.apple.com/ipad-pro/,True,200,,iPad Pro - Apple,sectioned,high,21,636,True,True,True,True,True,True,True,False,True,True,{}
+https://www.torontotechweek2024.com/,https://www.torontotechweek2024.com/,False,,URLError: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)>,,,,,,,,,,,,,,,,
+https://www.blitzit.app/,https://www.blitzit.app/,True,200,,"To Do List, Pomodoro, and Task Management App | Blitzit",sectioned,high,6,536,False,True,False,False,True,True,True,False,True,True,"{""square-ish"": 45, ""ultrawide"": 10, ""portrait"": 17, ""landscape"": 6}"
+https://fura.com/,https://fura.com/,True,200,,Fura,sectioned,high,10,28,False,False,False,False,False,False,True,False,False,True,{}
+https://arocksworld.com/,https://arocksworld.com/,True,200,,AROCK — Welcome,editorial_freeform,low,0,0,False,False,False,False,False,False,False,False,False,True,{}
+https://vanschneider.com/,https://vanschneider.com/,True,200,,Tobias van Schneider — Creative Direction - House of van Schneider,sectioned,high,19,159,False,True,False,False,False,True,True,False,False,True,"{""landscape"": 48, ""ultrawide"": 1, ""portrait"": 18, ""square-ish"": 5}"
+https://rekki.com/,https://rekki.com/,True,200,,REKKI - Office robots built for wholesale distributors,editorial_freeform,high,2,37,False,True,False,False,True,True,False,True,True,True,"{""landscape"": 23, ""square-ish"": 10, ""ultrawide"": 4}"
+https://www.eseagency.ch/en,https://www.eseagency.ch/en,True,200,,ESE Agency – Your advertising agency from Zurich,editorial_freeform,high,0,60,False,False,False,False,True,True,True,True,True,True,"{""square-ish"": 10, ""landscape"": 2}"
+https://yinger.dev/,https://yinger.dev/,True,200,,Max Yinger ☞ UI Engineer,editorial_freeform,low,0,0,False,True,False,False,False,False,False,False,False,True,{}
+https://onmi.io/,https://onmi.io/,True,200,,ONMI,sectioned,high,11,32,False,False,False,False,False,False,True,True,True,True,"{""landscape"": 4, ""ultrawide"": 7, ""square-ish"": 10, ""portrait"": 6}"
+https://shuttle.zip/,https://shuttle.zip/new/s/space/,True,200,,Shuttle – Your files. Your rules.,editorial_freeform,low,1,2,False,False,False,False,False,False,False,False,True,True,{}
+https://linear.app/homepage,https://linear.app/homepage,True,200,,Linear – The system for product development,sectioned,high,8,38,False,True,False,False,True,True,False,True,False,True,"{""landscape"": 5, ""square-ish"": 30}"
+https://www.pixelwrld.co/droppable,https://www.pixelwrld.co/droppable,False,308,HTTPError,,,,,,,,,,,,,,,,
+https://www.gopidge.com/,https://www.gopidge.com/,True,200,,,editorial_freeform,low,0,1,False,False,False,False,False,False,False,False,False,True,{}
+https://www.t72t.com/,https://www.t72t.com/,True,200,,Experimental Display Type — TYPO72TYPO,app-shell_or_js,low,0,1,False,False,False,False,False,True,False,False,False,True,{}
+https://jinsupark.com/,https://jinsupark.com/,False,,URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)>,,,,,,,,,,,,,,,,
+https://gokulkrishnan.com/,https://gokulkrishnan.com/,True,200,,Gokul Krishnan - UI/UX and Design @ 2024 Portfolio,app-shell_or_js,high,0,28,False,False,False,False,True,True,False,True,True,True,{}
+https://www.lapz.io/,https://www.lapz.io/,True,200,,Lapz: Watch F1® Races in Apple Vision Pro,sectioned,high,8,32,True,False,False,False,False,True,True,True,True,True,"{""ultrawide"": 3, ""square-ish"": 5}"
+https://trigger.dev/,https://trigger.dev/,True,200,,Trigger.dev | The open source platform for durable AI agents,sectioned,high,16,85,False,True,False,False,False,True,True,False,True,True,{}
+https://www.zbs.capital/,https://www.zbs.capital/,True,200,,ZBS Capital,editorial_freeform,high,0,242,False,True,True,False,False,True,False,True,True,True,{}
+https://www.heyvalentin.club/,https://www.heyvalentin.club/,True,200,,hey.Valentin – Freelance Product Designer & Illustrator,sectioned,high,5,38,False,True,False,False,False,False,False,True,True,True,{}
+https://www.shotwithkino.com/,https://www.shotwithkino.com/,True,200,,Kino — Pro Video Camera for iPhone,sectioned,high,4,41,True,False,False,False,False,True,False,True,True,True,{}
+https://festina.vc/,https://festina.vc/,True,200,,Festina,app-shell_or_js,low,0,7,False,True,False,False,True,True,True,True,True,True,"{""square-ish"": 2, ""ultrawide"": 2}"
+https://retool.com/,https://retool.com/,True,200,,"Build internal software better, with AI. | Retool",sectioned,high,7,136,True,True,False,False,False,True,True,True,True,True,"{""square-ish"": 26, ""landscape"": 26}"
+https://blok.so/,https://www.blok.so/,True,200,,The #1 Screen Time Product | Blok,editorial_freeform,high,2,142,False,True,False,False,False,False,False,True,False,True,"{""square-ish"": 1}"
+https://playlist.studio/,https://playlist.studio/,True,200,,Playlist Studio,app-shell_or_js,high,0,160,False,True,False,False,False,True,True,False,True,True,{}
+https://www.timedrift.live/,https://www.timedrift.live/,True,200,,Timedrift - Visual Time Management & Focus Tool,editorial_freeform,low,1,0,False,False,False,False,False,False,False,False,False,True,{}
+https://www.hyperstudio.org/,https://www.hyperstudio.org/,True,200,,Hyperstudio – Branding & Websites,sectioned,high,57,69,False,False,False,False,False,True,False,False,False,True,{}
+https://www.warp.dev/,https://www.warp.dev/,True,200,,Warp — The Open Platform for Automating Development,sectioned,high,10,35,True,True,True,False,True,True,False,True,False,True,"{""square-ish"": 5, ""landscape"": 1}"
+https://deeo.studio/,https://deeo.studio/,True,200,,"Deeo Studio – Brand, web, and digital experiences",editorial_freeform,high,3,44,False,True,False,False,True,True,True,False,True,True,"{""square-ish"": 3, ""landscape"": 16, ""portrait"": 1}"
+https://www.squarespace.com/refresh,https://www.squarespace.com/refresh,True,200,,"Squarespace Refresh 2025: Built to Stand Out, Ready to Scale — Squarespace",sectioned,high,14,260,True,False,True,True,True,True,True,True,True,True,"{""portrait"": 24, ""landscape"": 9, ""square-ish"": 2}"
+https://hex.tech/,https://hex.tech/,True,200,,Make everyone a data person,app-shell_or_js,high,0,35,False,True,False,False,True,True,False,True,True,True,"{""ultrawide"": 11, ""portrait"": 1, ""landscape"": 7, ""square-ish"": 1}"
+https://www.framer.com/plugins/,https://www.framer.com/plugins/,True,200,,Framer plugins: Extend what Framer can do,sectioned,high,12,350,False,True,False,False,True,True,False,False,True,True,"{""square-ish"": 30, ""portrait"": 50}"
+https://height.app/,https://height.app/,False,,URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)>,,,,,,,,,,,,,,,,
+https://framer.studio/,https://framer.studio/,True,200,,Publish it with Framer Studio,editorial_freeform,low,0,0,False,False,False,False,True,True,False,False,False,True,{}
+https://www.shareio.app/,https://shareio.app/,False,403,HTTPError,,,,,,,,,,,,,,,,
+https://modal.com/,https://modal.com/,True,200,,Modal: High-performance AI infrastructure,sectioned,medium,11,14,True,True,True,False,False,True,True,False,False,True,{}
+https://www.13g.fr/,https://www.13g.fr/,True,200,,Treize grammes - Agence de Branding,sectioned,high,11,50,True,True,True,False,False,True,True,True,True,True,{}
+https://www.cursor.com/,https://www.cursor.com/,False,308,HTTPError,,,,,,,,,,,,,,,,
+https://betterstack.com/,https://betterstack.com/,True,200,,"Better Stack - 30x cheaper than Datadog, Exceptional support",sectioned,high,15,129,True,True,False,False,False,False,False,False,False,True,"{""ultrawide"": 2, ""square-ish"": 13, ""landscape"": 24, ""portrait"": 41}"
+https://blocks.shawnlukas.com/,https://blocks.shawnlukas.com/,True,200,,Blocks,editorial_freeform,high,0,82,False,True,False,False,False,True,True,False,False,True,{}
+https://www.osmo.supply/,https://www.osmo.supply/,True,200,,Osmo - Dev Toolkit Built to Flex,sectioned,high,17,109,True,False,True,False,False,True,True,True,False,True,"{""landscape"": 4}"
+https://www.tiempo.fitness/,https://www.tiempo.fitness/,True,200,,Tiempo,editorial_freeform,high,3,264,False,False,False,False,True,True,True,True,True,True,"{""portrait"": 5, ""square-ish"": 65}"
+https://www.fey.com/features/earnings,https://fey.com/features/earnings,True,200,,Fey joined Wealthsimple,editorial_freeform,low,0,1,False,True,False,False,False,True,False,False,False,True,"{""ultrawide"": 1}"
+https://heyorbi.com/,https://heyorbi.com/,True,200,,Orbi | The easiest way to find freelance leads,sectioned,high,4,41,False,True,False,False,False,True,False,True,False,True,{}
+https://www.slash.com/,https://www.slash.com/,True,200,,"Business Banking, Cards & Treasury | Slash",sectioned,high,13,72,True,True,True,False,False,True,True,True,True,True,"{""ultrawide"": 15, ""square-ish"": 21, ""landscape"": 24}"
+https://antimetal.com/,https://antimetal.com/,True,200,,Antimetal,sectioned,high,12,19,False,True,False,False,False,True,False,True,True,True,"{""landscape"": 1, ""ultrawide"": 2, ""square-ish"": 1}"
+https://fey.com/features/finder,https://fey.com/features/finder,True,200,,Fey joined Wealthsimple,editorial_freeform,low,0,1,False,True,False,False,False,True,False,False,False,True,"{""ultrawide"": 1}"
+https://usetool.bar/,https://usetool.bar/,True,200,,Toolbar — AI test automation for web apps,editorial_freeform,medium,2,1,False,False,False,False,False,False,False,False,False,True,{}
