@@ -1,0 +1,1 @@
+document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',()=>{const id=a.getAttribute('href');if(id.length>1)setTimeout(()=>document.querySelector(id)?.focus({preventScroll:true}),450)}));
