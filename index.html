@@ -1,111 +1,115 @@
 <!doctype html>
 <html lang="en" data-theme="light"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="Dipan Design OS: a personal operating system for product design. 48-page report, one combined skill, a 245-site audit.">
+<meta name="description" content="Dipan Design OS: a personal operating system for product design. A 48-page report, one combined skill and a 245-site audit.">
 <title>Dipan Design OS - design with judgment</title>
 <script>try{var t=/[?&]dark/.test(location.search)?'dark':localStorage.getItem('ddos-theme');if(!t)t=matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';document.documentElement.dataset.theme=t}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
 <link rel="stylesheet" href="styles.css"></head><body>
 <a class="skip" href="#main">Skip to content</a>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
-<symbol id="i-compass" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" class="d" opacity=".25" fill="currentColor"/><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="m15.5 8.5-2 5-5 2 2-5z" fill="currentColor"/></symbol>
-<symbol id="i-image" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="3" fill="currentColor" opacity=".25"/><rect x="3" y="4" width="18" height="16" rx="3" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="9" cy="10" r="1.8" fill="currentColor"/><path d="m4 18 5-5 4 3 3-3 4 4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></symbol>
-<symbol id="i-motion" viewBox="0 0 24 24"><circle cx="8" cy="12" r="5" fill="currentColor" opacity=".25"/><circle cx="8" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M14 12h7m-3-3 3 3-3 3" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
-<symbol id="i-layers" viewBox="0 0 24 24"><path d="m12 3 9 5-9 5-9-5z" fill="currentColor" opacity=".25"/><path d="m12 3 9 5-9 5-9-5zM3 13l9 5 9-5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></symbol>
-<symbol id="i-check" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor" opacity=".25"/><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="m8 12.5 3 3 5-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
-<symbol id="i-phone" viewBox="0 0 24 24"><rect x="7" y="2.5" width="10" height="19" rx="3" fill="currentColor" opacity=".25"/><rect x="7" y="2.5" width="10" height="19" rx="3" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10.5 18.5h3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
-<symbol id="i-doc" viewBox="0 0 24 24"><path d="M6 3h8l4 4v14H6z" fill="currentColor" opacity=".25"/><path d="M6 3h8l4 4v14H6zM14 3v4h4M9 12h6M9 16h6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/></symbol>
-<symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-5-5 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
-<symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4" fill="currentColor" opacity=".3"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.4 1.4m11.2 11.2L19 19M5 19l1.4-1.4M17.6 6.4 19 5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
+<symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4" fill="currentColor" opacity=".3"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M18.7 5.3l-1.6 1.6M6.9 17.1l-1.6 1.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
 <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5z" fill="currentColor" opacity=".3"/><path d="M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></symbol>
-<symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 8h16M4 16h16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
-<symbol id="i-x" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+<symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-5-5 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+<symbol id="i-doc" viewBox="0 0 24 24"><path d="M6 3h8l4 4v14H6z" fill="currentColor" opacity=".25"/><path d="M6 3h8l4 4v14H6zM14 3v4h4M9 12h6M9 16h6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+<symbol id="i-sliders" viewBox="0 0 24 24"><path d="M4 8h9m4 0h3M4 16h3m4 0h9" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="15" cy="8" r="2.4" fill="currentColor" opacity=".3" stroke="currentColor" stroke-width="1.6"/><circle cx="9" cy="16" r="2.4" fill="currentColor" opacity=".3" stroke="currentColor" stroke-width="1.6"/></symbol>
+<symbol id="i-bookmark" viewBox="0 0 24 24"><path d="M7 3.5h10a1 1 0 0 1 1 1V21l-6-4-6 4V4.5a1 1 0 0 1 1-1z" fill="currentColor" opacity=".25"/><path d="M7 3.5h10a1 1 0 0 1 1 1V21l-6-4-6 4V4.5a1 1 0 0 1 1-1z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></symbol>
+<symbol id="i-code" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="3" fill="currentColor" opacity=".25"/><path d="m10 9-3 3 3 3m4-6 3 3-3 3" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+<symbol id="i-user" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4" fill="currentColor" opacity=".25"/><circle cx="12" cy="8" r="4" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M4.5 20c.8-4 3.8-6 7.5-6s6.7 2 7.5 6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
+<symbol id="i-layers" viewBox="0 0 24 24"><path d="m12 3 9 5-9 5-9-5z" fill="currentColor" opacity=".25"/><path d="m12 3 9 5-9 5-9-5zM3 13l9 5 9-5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></symbol>
+<symbol id="i-spark" viewBox="0 0 24 24"><path d="M12 3l2 5.5L19.5 10 14 12l-2 5.5L10 12 4.5 10 10 8.5z" fill="currentColor" opacity=".25"/><path d="M12 3l2 5.5L19.5 10 14 12l-2 5.5L10 12 4.5 10 10 8.5z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></symbol>
+<symbol id="i-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="3" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2" fill="none" stroke="currentColor" stroke-width="1.6"/></symbol>
 </defs></svg>
 
-<header class="nav-shell"><div class="nav" id="nav">
+<header class="bar"><div class="bar-in">
 <a class="brand" href="#top" aria-label="Dipan Design OS home"><span class="logo" aria-hidden="true"></span>Design OS</a>
-<nav class="links" aria-label="Primary"><a href="#principles">Principles</a><a href="#system">System</a><a href="#proof">Proof</a><a href="#resources">Resources</a><a href="#faq">FAQ</a></nav>
-<div class="nav-end"><button class="icon-btn" id="theme" type="button" aria-label="Toggle dark mode"><svg class="ic sun"><use href="#i-sun"/></svg><svg class="ic moon"><use href="#i-moon"/></svg></button>
-<a class="btn btn-primary btn-sm hide-sm" href="research/DIPAN-DESIGN-OS.pdf">Open report</a>
-<button class="icon-btn menu-btn" id="menu" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="drawer"><svg class="ic"><use href="#i-menu"/></svg></button></div>
+<nav class="links" aria-label="Primary"><a href="#expect">Overview</a><a href="#modules">Contents</a><a href="#skill">Skill</a><a href="#for">Who it is for</a></nav>
+<div class="bar-end"><button class="icon-btn" id="theme" type="button" aria-label="Toggle dark mode"><svg class="ic sun"><use href="#i-sun"/></svg><svg class="ic moon"><use href="#i-moon"/></svg></button>
+<a class="btn btn-ink btn-sm" href="research/DIPAN-DESIGN-OS.pdf">Open report</a></div>
 </div></header>
-<aside class="drawer" id="drawer" aria-hidden="true"><button class="icon-btn" id="close" type="button" aria-label="Close menu"><svg class="ic"><use href="#i-x"/></svg></button>
-<a href="#principles">Principles</a><a href="#system">System</a><a href="#proof">Proof</a><a href="#resources">Resources</a><a href="#faq">FAQ</a><a class="btn btn-primary" href="research/DIPAN-DESIGN-OS.pdf">Open report</a></aside>
 
 <main id="main">
-<section class="hero" id="top"><canvas class="grid-bg" id="flicker" aria-hidden="true"></canvas>
+<section class="hero" id="top" data-ann="on"><div class="dots" aria-hidden="true"></div>
 <div class="wrap hero-in">
-<a class="pill reveal" href="#proof"><span class="dot"></span><span class="shiny">v2 · 245 sites audited</span><svg class="ic sm"><use href="#i-arrow"/></svg></a>
-<h1 class="reveal">The design system for <span class="rot" aria-live="polite"><span class="rot-word" id="rot">landing pages</span></span> that never starts blank.</h1>
-<p class="lede reveal">Dipan Design OS is a personal source of truth: 15 studies, 245 audited landing pages and one combined skill, written down so every future product starts with judgment.</p>
-<div class="actions reveal"><a class="btn btn-primary shimmer" href="research/DIPAN-DESIGN-OS.pdf">Read the 48-page report <svg class="ic sm"><use href="#i-arrow"/></svg></a><a class="btn btn-ghost" href="skill/SKILL.md">View the skill</a></div>
-<p class="fine reveal">Free to read. Markdown, PDF and skill files, all open in this repo.</p>
-<div class="safari reveal" aria-label="Preview of the Design OS report">
-<div class="beam" aria-hidden="true"></div>
-<div class="safari-bar"><span class="lights"><i></i><i></i><i></i></span><span class="url">dipannama.github.io/dipan-design-os</span><span class="sp"></span></div>
-<div class="safari-body skel"><img src="assets/p1.svg" width="640" height="905" alt="Cover page of the 48-page Dipan Design OS report" loading="eager"></div>
+<div class="ann-row reveal"><span class="tag t-a">Inter 600 &middot; 56px / 1.05 &middot; -0.025em</span>
+<label class="tog"><input type="checkbox" id="ann" checked><span class="sw" aria-hidden="true"></span><span class="tag">Annotations</span></label></div>
+<h1 class="reveal d1">Design with <span class="sel">judgment<i class="h h1"></i><i class="h h2"></i><i class="h h3"></i><i class="h h4"></i><span class="tag t-b">oklch(0.62 0.21 260)</span></span><br>for every <span class="chip">product</span> you ship.</h1>
+<p class="lede reveal d2">Dipan Design OS is a personal source of truth for product design. A 48-page report, one combined skill and a 245-site audit, each idea written plainly and shown in real pages.<span class="tag t-c">16px / 1.55 &middot; max-width 60ch</span></p>
+<p class="kicker reveal d3">Updated September 2026 &middot; Free to read</p>
+<div class="actions reveal d3"><span class="tag t-d">--ink &middot; radius 999px</span><a class="btn btn-ink" href="research/DIPAN-DESIGN-OS.pdf">Read the report <s>48 pages</s></a><a class="btn btn-ghost" href="skill/SKILL.md">Open the skill</a></div>
+<p class="fine reveal d4">Markdown, PDF and skill files. All open in this repo.</p>
+<form class="getbox reveal d4" onsubmit="return false"><label for="cp" class="sr">Skill file path</label><input id="cp" readonly value="skill/SKILL.md"><button class="btn btn-ink btn-sm" type="button" id="copy">Copy path</button></form>
+</div>
+<div class="fan" aria-label="Pages from the Design OS report"><div class="fan-in">
+<figure class="pg pg-l reveal"><div class="skel"><img src="page-part-1-evidence.webp" width="640" height="905" alt="Report page: Part I, evidence, taste and judgment" loading="eager"></div></figure>
+<figure class="pg pg-c reveal d1"><div class="skel"><img src="page-cover.webp" width="640" height="905" alt="Cover page of the 48-page Dipan Design OS report" loading="eager"></div></figure>
+<figure class="pg pg-r reveal"><div class="skel"><img src="page-part-2-foundations.webp" width="640" height="905" alt="Report page: Part II, foundations" loading="eager"></div></figure>
+</div></div>
+</section>
+
+<section class="sec soft" id="expect"><div class="wrap">
+<h2 class="h2c reveal">What to expect</h2>
+<div class="three">
+<article class="reveal"><div class="tile"><svg class="ic"><use href="#i-doc"/></svg></div><h3>Plain, concise guidance</h3><p>Each section explains one decision: why it matters, the rule to follow and when to break it. No filler.</p></article>
+<article class="reveal d1"><div class="tile"><svg class="ic"><use href="#i-sliders"/></svg></div><h3>Proof in real pages</h3><p>Every claim is backed by a finished page from the report or one of the 245 landing pages audited, not a coded mock-up.</p></article>
+<article class="reveal d2"><div class="tile"><svg class="ic"><use href="#i-bookmark"/></svg></div><h3>A reference to return to</h3><p>Read it before any new UI work. It records what he likes and how he wants things to be, so every build starts from judgment.</p></article>
+</div>
+<div class="stats reveal"><div><b class="num" data-to="15">0</b><span>project skills combined</span></div><div><b class="num" data-to="245">0</b><span>listings audited</span></div><div><b class="num" data-to="48">0</b><span>pages in the report</span></div><div><b class="num" data-to="6">0</b><span>deep references</span></div></div>
+</div></section>
+
+<section class="sec" id="modules"><div class="wrap">
+<div class="card-lg reveal">
+<div class="dual"><h2 class="h2c">Every part and chapter</h2>
+<p class="sub">Seven parts and 89 chapters. Open a part to see highlights from it.</p>
+<div class="acc" id="acc">
+<details open><summary><span class="no">01</span><span class="nm">Evidence, taste and judgment</span><span class="pm" aria-hidden="true"></span></summary><ol class="lessons"><li><span>01</span>Purpose, ownership and boundaries</li><li><span>02</span>Evidence and method</li><li><span>03</span>Dipan's taste profile</li><li><span>04</span>What modern means</li><li><span>05</span>Product truth before visual style</li><li><span>06</span>The quality hierarchy</li><li><span>07</span>Taste as trained judgment</li><li><span>08</span>Originality: borrow grammar, not identity</li></ol></details>
+<details><summary><span class="no">02</span><span class="nm">Foundations</span><span class="pm" aria-hidden="true"></span></summary><ol class="lessons"><li><span>09</span>Semantic token architecture</li><li><span>10</span>Color systems and accent budgets</li><li><span>11</span>Typography roles</li><li><span>12</span>Font selection</li><li><span>13</span>Spacing and rhythm</li><li><span>14</span>Grid and container logic</li><li><span>15</span>Radius, borders and nested geometry</li><li><span>16</span>Depth, shadows, blur and glass</li><li><span>17</span>Iconography</li><li><span>18</span>Illustration and art direction</li><li><span>19</span>Content design</li></ol></details>
+<details><summary><span class="no">03</span><span class="nm">Page construction</span><span class="pm" aria-hidden="true"></span></summary><ol class="lessons"><li><span>20</span>Landing-page narrative architecture</li><li><span>21</span>Type-led heroes</li><li><span>22</span>Product proof as evidence</li><li><span>23</span>Ratio cadence</li><li><span>24</span>Quiet framing</li><li><span>25</span>Section rhythm and density</li><li><span>26</span>Bento as a local tool</li><li><span>29</span>Final calls to action</li><li><span>30</span>Mobile composition</li><li><span>37</span>Findings from all 245 listings</li></ol></details>
+<details><summary><span class="no">04</span><span class="nm">Components and the shadcn ecosystem</span><span class="pm" aria-hidden="true"></span></summary><ol class="lessons"><li><span>38</span>shadcn/ui is open code</li><li><span>39</span>Primitive to page</li><li><span>40</span>State completeness</li><li><span>42</span>Forms and validation</li><li><span>43</span>Navigation</li><li><span>46</span>Feedback and perceived performance</li><li><span>47</span>Empty, loading and error states</li><li><span>48</span>Registry and library landscape</li></ol></details>
+<details><summary><span class="no">05</span><span class="nm">Motion and micro-interaction</span><span class="pm" aria-hidden="true"></span></summary><ol class="lessons"><li><span>51</span>Motion decision framework</li><li><span>52</span>Timing and easing</li><li><span>53</span>CSS transitions and keyframes</li><li><span>54</span>Motion for React</li><li><span>55</span>Enter, exit and presence</li><li><span>60</span>Reduced motion</li><li><span>61</span>Performance</li></ol></details>
+<details><summary><span class="no">06</span><span class="nm">Accessibility, responsiveness and quality</span><span class="pm" aria-hidden="true"></span></summary><ol class="lessons"><li><span>63</span>Semantic HTML</li><li><span>64</span>Keyboard and focus</li><li><span>65</span>Contrast and non-color meaning</li><li><span>66</span>Target size and touch</li><li><span>68</span>Responsive systems</li><li><span>72</span>Loading and perceived speed</li><li><span>73</span>Visual QA</li></ol></details>
+<details><summary><span class="no">07</span><span class="nm">Dipan's operating system</span><span class="pm" aria-hidden="true"></span></summary><ol class="lessons"><li><span>75</span>Project kickoff worksheet</li><li><span>77</span>Visual thesis</li><li><span>78</span>Page recipe selector</li><li><span>79</span>Implementation sequence</li><li><span>80</span>Review rubric</li><li><span>81</span>Anti-patterns</li><li><span>82</span>Master checklist</li><li><span>86</span>Maintaining the Design OS</li></ol></details>
+<p class="more-row"><span class="no">08</span>Appendices: sample chapter, source ledger and gallery research.</p>
+</div></div></div>
+</div></section>
+
+
+<section class="sec" id="skill"><div class="wrap narrow">
+<h2 class="h2c reveal"><span class="ttlin"><svg class="ic blue"><use href="#i-spark"/></svg><span>One skill, ready to paste</span></span></h2>
+<p class="lead reveal"><b>The whole system is packaged as a skill.</b> Point Claude, ChatGPT, Cursor or v0 at it and the pages they produce follow his rules: type first, real proof, one accent, motion with a reason.</p>
+<pre class="code reveal" id="codeblock"><code><span class="cm">// from skill/SKILL.md</span>
+DECISION ORDER
+- Product truth, then information architecture, then hierarchy.
+- Evidence: a real interface or result for each claim.
+- Motion only when it explains change or confirms input.
+NON-NEGOTIABLES
+- Fully responsive. Mobile restructures, it does not shrink.
+- Real finished imagery. No CSS scenes posing as screenshots.
+- One accent, quiet borders, generous negative space.
+&hellip;<i class="caret"></i></code></pre>
+</div></section>
+
+<section class="sec" id="for"><div class="wrap">
+<h2 class="h2c reveal">Who it is for</h2>
+<p class="sub c reveal">If you start products and care how they look, this is for you.</p>
+<div class="three">
+<article class="reveal"><div class="tile"><svg class="ic"><use href="#i-user"/></svg></div><h3>Dipan, mostly</h3><p>It is a personal reference for future builds. It records taste so every new product starts from it, not from a blank page.</p></article>
+<article class="reveal d1"><div class="tile"><svg class="ic"><use href="#i-code"/></svg></div><h3>Developers and designers</h3><p>Developers get the designer's reasoning. Designers get the shadcn-based component and state rules.</p></article>
+<article class="reveal d2"><div class="tile"><svg class="ic"><use href="#i-layers"/></svg></div><h3>Vibe coders</h3><p>Hand the skill to your AI tools so the first draft already follows a spacing scale, type roles and a motion system.</p></article>
 </div></div></section>
 
-<section class="logos" aria-label="Sources studied"><p class="eyebrow center">Built from the sites and systems he studies</p>
-<div class="marquee" aria-hidden="false"><div class="track"><span>dark.design</span><span>ui.aceternity.com</span><span>interfaces.dev</span><span>lapa.ninja</span><span>land-book</span><span>onepagelove</span><span>curated.design</span><span>shadcn/ui</span><span>Magic UI</span><span>svgl.app</span><span>jdhruv.dev</span><span>chanhdai.com</span></div><div class="track" aria-hidden="true"><span>dark.design</span><span>ui.aceternity.com</span><span>interfaces.dev</span><span>lapa.ninja</span><span>land-book</span><span>onepagelove</span><span>curated.design</span><span>shadcn/ui</span><span>Magic UI</span><span>svgl.app</span><span>jdhruv.dev</span><span>chanhdai.com</span></div></div></section>
-
-<section class="sec" id="principles"><div class="wrap">
-<div class="head reveal"><p class="eyebrow">Core direction</p><h2>Type makes the promise. Imagery proves it. Interaction explains the change.</h2><p class="sub">Three rules decide almost every call on a page. The rest of the system hangs off them.</p></div>
-<div class="feat">
-<article class="card reveal"><div class="tile"><svg class="ic"><use href="#i-compass"/></svg></div><h3>Clarity before style</h3><p>Start with the user, the situation, the promise, the proof and the next action. Polish cannot fix a weak belief path.</p></article>
-<article class="card reveal"><div class="tile"><svg class="ic"><use href="#i-image"/></svg></div><h3>Evidence over decoration</h3><p>Every image has a job. Product proof is legible, cropped for its section and never repeated by a coded imitation.</p></article>
-<article class="card reveal"><div class="tile"><svg class="ic"><use href="#i-motion"/></svg></div><h3>Motion with a reason</h3><p>Animate continuity, state and feedback. Keep frequent actions instant and respect reduced motion.</p></article>
-<article class="card reveal"><div class="tile"><svg class="ic"><use href="#i-layers"/></svg></div><h3>Borrow grammar, not identity</h3><p>Learn the structure of the sites he admires. Never copy their brand, copy or assets. Originality has boundaries.</p></article>
-<article class="card reveal"><div class="tile"><svg class="ic"><use href="#i-phone"/></svg></div><h3>Mobile is the design</h3><p>Design mobile first, then check both layouts. Bottom sheets, a full-width sidebar and no visible scrollbars.</p></article>
-<article class="card reveal"><div class="tile"><svg class="ic"><use href="#i-check"/></svg></div><h3>Verified pixels</h3><p>Nothing is finished until the real artifact is inspected on desktop and mobile, in light and dark.</p></article>
+<section class="sec fan5" id="proof"><div class="wrap narrow c">
+<h2 class="h2c reveal">Start the next product with a system</h2>
+<p class="sub c reveal">Open the report, or drop the skill into your tools. Both are free and live in this repo.</p>
+<div class="actions reveal"><a class="btn btn-ink" href="research/DIPAN-DESIGN-OS.pdf">Read the report <s>48 pages</s></a><a class="btn btn-ghost" href="research/DIPAN-DESIGN-OS.md">View the Markdown</a></div>
+<p class="fine reveal"><a class="lnk" href="research/dark-design-245-audit.csv">See the 245-site audit <span class="arr"><svg class="ic sm"><use href="#i-arrow"/></svg></span></a></p></div>
+<div class="fan fan-5" aria-label="More pages from the Design OS report"><div class="fan-in">
+<figure class="pg p5-1 reveal"><div class="skel"><img src="page-part-3-page-construction.webp" width="700" height="990" alt="Report page: Part III, page construction" loading="lazy"></div></figure>
+<figure class="pg p5-2 reveal"><div class="skel"><img src="page-part-4-components.webp" width="700" height="990" alt="Report page: Part IV, components" loading="lazy"></div></figure>
+<figure class="pg p5-3 reveal"><div class="skel"><img src="page-part-5-motion.webp" width="700" height="990" alt="Report page: Part V, motion" loading="lazy"></div></figure>
+<figure class="pg p5-4 reveal"><div class="skel"><img src="page-part-6-accessibility.webp" width="700" height="990" alt="Report page: Part VI, accessibility" loading="lazy"></div></figure>
+<figure class="pg p5-5 reveal"><div class="skel"><img src="page-part-7-operating-system.webp" width="700" height="990" alt="Report page: Part VII, operating system" loading="lazy"></div></figure>
 </div></div></section>
-
-<section class="sec alt" id="stats"><div class="wrap"><div class="stats reveal">
-<div><b><span class="num" data-to="15">0</span></b><span>project skills combined</span></div>
-<div><b><span class="num" data-to="245">0</span></b><span>dark.design listings audited</span></div>
-<div><b><span class="num" data-to="372">0</span></b><span>open registries mapped</span></div>
-<div><b><span class="num" data-to="48">0</span></b><span>pages in the report</span></div>
-</div></div></section>
-
-<section class="sec" id="system"><div class="wrap">
-<div class="head reveal"><p class="eyebrow">How it works</p><h2>From product truth to verified pixels.</h2><p class="sub">Six steps, in order. Skip none, and the page keeps its logic from hero to footer.</p></div>
-<ol class="steps">
-<li class="reveal"><span class="n">1</span><div><h3>Frame the product</h3><p>Audience, job, pain, promise, proof and action.</p></div></li>
-<li class="reveal"><span class="n">2</span><div><h3>Choose the thesis</h3><p>Mood plus mechanism, with clear originality boundaries.</p></div></li>
-<li class="reveal"><span class="n">3</span><div><h3>Build foundations</h3><p>Semantic tokens, type roles, layout, depth and icons.</p></div></li>
-<li class="reveal"><span class="n">4</span><div><h3>Compose and prove</h3><p>Section roles, finished imagery, complete component states.</p></div></li>
-<li class="reveal"><span class="n">5</span><div><h3>Add purposeful motion</h3><p>Exact properties, interruption and reduced-motion behavior.</p></div></li>
-<li class="reveal"><span class="n">6</span><div><h3>Verify the artifact</h3><p>Desktop, mobile, keyboard, zoom, contrast and real pixels.</p></div></li>
-</ol></div></section>
-
-<section class="sec alt" id="proof"><div class="wrap">
-<div class="head reveal"><p class="eyebrow">Inside the report</p><h2>A closer look at what you get.</h2><p class="sub">Every section has its own crop and ratio. One system holds them together.</p></div>
-<div class="bento">
-<figure class="card b-a reveal"><div class="frame skel"><img src="assets/q6.svg" width="640" height="905" alt="Report page on taste and judgment" loading="lazy"></div><figcaption><h3>Taste, written down</h3><p>His profile as rules: colour budgets, dual borders, pill buttons, duotone icons.</p></figcaption></figure>
-<figure class="card b-b reveal"><div class="frame skel"><img src="assets/q15.svg" width="640" height="905" alt="Report page on landing-page narrative" loading="lazy"></div><figcaption><h3>Page narrative</h3><p>Hero, proof, how it works, objections, final call.</p></figcaption></figure>
-<figure class="card b-c reveal"><div class="frame skel"><img src="assets/q22.svg" width="640" height="905" alt="Report page on component libraries and states" loading="lazy"></div><figcaption><h3>Libraries and states</h3><p>shadcn first. Loading, empty, error and success, never just the happy path.</p></figcaption></figure>
-<figure class="card b-d reveal"><div class="frame skel"><img src="assets/q28.svg" width="640" height="905" alt="Report page on motion and interaction" loading="lazy"></div><figcaption><h3>Motion and interaction</h3><p>Emil Kowalski and interfaces.dev principles: micro-interactions that explain state.</p></figcaption></figure>
-</div></div></section>
-
-<section class="sec" id="resources"><div class="wrap">
-<div class="head reveal"><p class="eyebrow">Working set</p><h2>Research, skill and audit. Open, inspect, adapt.</h2></div>
-<div class="res">
-<a class="card res-i reveal" href="research/DIPAN-DESIGN-OS.pdf"><div class="tile"><svg class="ic"><use href="#i-doc"/></svg></div><h3>Design OS report</h3><p>The designed 48-page reading edition, with sources and checklists.</p><b>Open PDF <svg class="ic sm"><use href="#i-arrow"/></svg></b></a>
-<a class="card res-i reveal" href="research/DIPAN-DESIGN-OS.md"><div class="tile"><svg class="ic"><use href="#i-doc"/></svg></div><h3>Markdown source</h3><p>The complete editable source of truth.</p><b>Open Markdown <svg class="ic sm"><use href="#i-arrow"/></svg></b></a>
-<a class="card res-i reveal" href="skill/SKILL.md"><div class="tile"><svg class="ic"><use href="#i-layers"/></svg></div><h3>Combined skill</h3><p>A compact decision system with six deep references.</p><b>Open skill <svg class="ic sm"><use href="#i-arrow"/></svg></b></a>
-<a class="card res-i reveal" href="research/dark-design-245-audit.csv"><div class="tile"><svg class="ic"><use href="#i-check"/></svg></div><h3>245-site audit</h3><p>URL-by-URL status and coded observations.</p><b>Open CSV <svg class="ic sm"><use href="#i-arrow"/></svg></b></a>
-</div></div></section>
-
-<section class="sec alt" id="faq"><div class="wrap narrow">
-<div class="head reveal"><p class="eyebrow">FAQ</p><h2>Questions, answered.</h2></div>
-<div class="faq reveal">
-<details open><summary>Who is this for?</summary><p>Mainly Dipan, for his own future products. It records what he likes and how he wants things to be, so each new build starts from his taste and not from guesses.</p></details>
-<details><summary>What is inside the report?</summary><p>Four parts: evidence and taste, foundations, page construction, and component architecture around the shadcn ecosystem. It also has the findings from all 245 dark.design listings.</p></details>
-<details><summary>Does it say to hand-build components?</summary><p>No. Use component libraries first and create a component only when no library has one.</p></details>
-<details><summary>How do I use the skill?</summary><p>Read SKILL.md before any new UI work. It links to six references on foundations, page construction, components, motion, accessibility and taste.</p></details>
-<details><summary>What counts as finished?</summary><p>The real page, inspected on desktop and a 390px phone, in light and dark, with keyboard and reduced-motion checked.</p></details>
-</div></div></section>
-
-<section class="cta"><div class="wrap"><div class="cta-box reveal"><div class="ripple" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
-<h2>Good work is what survives real use.</h2><p>Open the report and start the next product with a system, not a blank page.</p><a class="btn btn-primary shimmer" href="research/DIPAN-DESIGN-OS.pdf">Use the system <svg class="ic sm"><use href="#i-arrow"/></svg></a></div></div></section>
 </main>
-<footer><div class="wrap foot"><span class="brand"><span class="logo" aria-hidden="true"></span>Dipan Design OS</span><span>A personal source of truth. Updated September 2026.</span><nav aria-label="Footer"><a href="research/SOURCES.md">Sources</a><a href="https://github.com/DipanNama/dipan-design-os">GitHub</a></nav></div></footer>
+<footer><div class="wrap foot"><span>&copy; Dipan Design OS</span><nav aria-label="Footer"><a href="https://github.com/DipanNama/dipan-design-os">GitHub</a><a href="research/SOURCES.md">Sources</a><a href="research/DIPAN-DESIGN-OS.md">Markdown</a><a href="skill/SKILL.md">Skill</a></nav></div></footer>
 <script src="script.js"></script></body></html>
